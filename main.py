@@ -31,7 +31,7 @@ time.sleep(0.5)
 pyautogui.write("name")
 #selects it
 select_user()
-#repeat for all users 
+#repeat for all users OR use a list + for loop
 
 #clicks off the user adding thing
 pyautogui.click(x =,y =)
