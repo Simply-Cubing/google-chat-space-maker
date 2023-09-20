@@ -7,7 +7,7 @@ def select_user():
     pyautogui.click(x = , y =)
     time.sleep(0.75)
 
-time.sleep(3)
+time.sleep(3) #gives you time to open gmail
 pyautogui.click(x = , y =)
 #clicks the "new space" button
 time.sleep(0.5)
